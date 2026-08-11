@@ -1,0 +1,29 @@
+{
+    "value": [
+      {
+        "Employee_ID": 101,
+        "Name": "Somnath",
+        "Department": "IT"
+      },
+      {
+        "Employee_ID": 102,
+        "Name": "Rahul",
+        "Department": "Analytics"
+      },
+      {
+        "Employee_ID": 102,
+        "Name": "Rahul",
+        "Department": "Analytics"
+      },
+      {
+        "Employee_ID": 103,
+        "Name": null,
+        "Department": "Operations"
+      },
+      {
+        "Employee_ID": 105,
+        "Name": "Amit",
+        "Department": "Finance"
+      }
+    ]
+  }
